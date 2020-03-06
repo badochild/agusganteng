@@ -7,7 +7,7 @@ echo color("red","| Auto create Gojek X Redeem voucher gofoood |\n");
 echo color("green","| github: Hekker by: M |\n");
 echo color("purple","| Sponsor : PT. GOJEK INDONESIA|\n");
 echo color("yellow","| Creator : Agusganteng.com          |\n");
-echo "| Kata sambutan : kalo dah dapat banyak jangan lupa sedekah atw tratir MataHantu ngopi ya      |\n";
+echo "| Kata sambutan : jangan pernah tunduk akan ke'adaan.gojek pasti ada jalan dan jngn lupa bersyukur      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
